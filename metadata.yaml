@@ -1,0 +1,51 @@
+_repo: History-of-the-Franks_74955
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brehaut, Ernest
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '46441'
+    url: http://www.gutenberg.org/2009/agents/46441
+creator:
+  author:
+    agent_name: Gregory, Bishop of Tours, Saint
+    aliases:
+    - Grégoire, de Tours, Saint
+    - Gregoire, de Tours, Saint
+    - Gregor, of Tours, Saint
+    - Gregorius, Turonensis, Saint
+    birthdate: 538
+    deathdate: 594
+    gutenberg_agent_id: '57745'
+    url: http://www.gutenberg.org/2009/agents/57745
+    wikipedia: https://en.wikipedia.org/wiki/Gregory_of_Tours
+description: '"Contains some extracts from Gregory''s Eight books of miracles."--Preface
+
+  Translation of selections from Historia Francorum.'
+gutenberg_issued: '2024-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74955'
+  lccn: '16020457'
+language: en
+pgterms:marc904: https://archive.org/details/historyoffranks01greg
+pgterms:marc905: 20201014082208saintgrego
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Carol Brown, Brian Wilson, Turgut Dincer and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aNew York :$bColumbia University Press, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Records of civilization, sources and studies [11]
+subjects:
+- !lcsh 'France -- History -- To 987'
+- !lcsh 'Franks -- History -- To 768'
+- !lcsh 'France -- Church history -- To 987'
+- !lcc 'DC'
+- GITenberg
+title: History of the Franks
+url: http://www.gutenberg.org/ebooks/74955
