@@ -7,6 +7,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '46441'
     url: http://www.gutenberg.org/2009/agents/46441
+covers:
+- cover_type: archival
+  image_path: 74955-h/images/cover.jpg
 creator:
   author:
     agent_name: Gregory, Bishop of Tours, Saint
@@ -23,6 +26,8 @@ creator:
 description: '"Contains some extracts from Gregory''s Eight books of miracles."--Preface
 
   Translation of selections from Historia Francorum.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74955#History-of-the-Franks
 gutenberg_issued: '2024-12-20'
 gutenberg_type: Text
 identifiers:
